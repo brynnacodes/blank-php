@@ -1,6 +1,6 @@
 # _PHP Template_
 
-#### _A PHP project template
+#### _A PHP project template_
 
 #### By _**Brynna Klamkin-McCarter, Clayton Collins**_
 
